@@ -5,7 +5,7 @@ A mini E-commerce web application build to have many security  Vulnerabilities e
 
 #### Note*: Still under construction 
 
-| Vulnerability Name | README |
+| Vulnerability Name | Status  |
 | ------ | ------ |
 A1:2017-Injection|   :green_circle:  	
  A2:2017-Broken Authentication|  :green_circle:
@@ -18,7 +18,7 @@ A6:2017-Security Misconfiguration|   :green_circle:
  A9:2017-Using Components with Known Vulnerabilities|   :red_circle:	
  A10:2017-Insufficient Logging & Monitoring|  :red_circle:	
 
-| Status | description |
+| Status | Description |
 | ------ | ------ |
 :green_circle: |  Vulnerable
 :orange_circle:   |  Working on it
