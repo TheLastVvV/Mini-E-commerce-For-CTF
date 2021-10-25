@@ -23,3 +23,7 @@ A6:2017-Security Misconfiguration|   :green_circle:
 :green_circle: |  Vulnerable
 :orange_circle:   |  Working on it
 :red_circle:	| Not Vulnerable
+
+
+##### References :
+https://owasp.org/www-project-top-ten/2017/
