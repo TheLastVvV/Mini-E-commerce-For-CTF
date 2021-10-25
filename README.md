@@ -1,7 +1,7 @@
 # Mini E-commerce CTF version
 ## The Vulnerable  Mini E-commerce
 
-
+A mini E-commerce web application build to have many security  Vulnerabilities either used as demonstration of each Vulnerability or being used as fun web application for Capture the flag events.
 
 #### Note*: Still under construction 
 
